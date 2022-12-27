@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Hero {}","map":{"version":3,"mappings":"AAAA,OAAM,MAAOA,IAAI","names":["Hero"],"sourceRoot":"","sources":["C:\\Users\\Lin Liu\\Desktop\\HEROTEST\\angular-tour-of-heroes\\src\\app\\hero.ts"],"sourcesContent":["export class Hero {\r\n  id!: number;\r\n  name!: string;\r\n}\r\n"]},"metadata":{},"sourceType":"module","externalDependencies":[]}
